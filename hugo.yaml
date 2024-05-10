@@ -1,0 +1,48 @@
+baseURL: ""
+title: "Copiuminators"
+copyright: "© IBOTGUN"
+paginate: 5
+theme: papermod
+
+menu:
+  main:
+    - identifier: home
+      name: "Home"
+      url: /
+      weight: 10
+    - identifier: search
+      name: "Search"
+      url: /search/
+      weight: 20
+    - identifier: posts
+      name: "Posts"
+      url: /posts/
+      weight: 30
+    #- identifier: archives
+    #  name: "Archives"
+    #  url: /archives/
+    #  weight: 40
+    - identifier: tags
+      name: "Tags"
+      url: /tags/
+      weight: 50
+
+params:
+  defaultTheme: dark
+  ShowPostNavLinks: true
+
+  homeInfoParams:
+    Title: Hello Reader 
+    Content: Blog about games, movies and stuff
+
+  socialIcons:
+    - name: "BuyMeACoffee"
+      url: "https://buymeacoffee.com/ibotgun"
+    - name: "GitHub"
+      url: "https://github.com/ibotgun/webblog"
+
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON # necessary for search
