@@ -1,1 +1,1 @@
-Copiminators Blog Files
+Copiuminators Blog Files
