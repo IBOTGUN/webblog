@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>News on Copiuminators</title>
-    <link>//localhost:1313/tags/news/</link>
+    <link>/tags/news/</link>
     <description>Recent content in News on Copiuminators</description>
     <generator>Hugo -- 0.125.1</generator>
     <language>en</language>
     <copyright>IBOTGUN 2024 ©</copyright>
     <lastBuildDate>Sat, 11 May 2024 19:14:53 +0200</lastBuildDate>
-    <atom:link href="//localhost:1313/tags/news/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/tags/news/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>MrBeast - Protect the Yacht</title>
-      <link>//localhost:1313/posts/mrbeast-yacht/</link>
+      <link>/posts/mrbeast-yacht/</link>
       <pubDate>Sat, 11 May 2024 19:14:53 +0200</pubDate>
-      <guid>//localhost:1313/posts/mrbeast-yacht/</guid>
+      <guid>/posts/mrbeast-yacht/</guid>
       <description>Today, MrBeast&amp;rsquo;s third and last &amp;lsquo;Protect the ___; Keep It&amp;rsquo; video premiered. Another contestant was chosen to defend his yacht using cannons, fireworks, bombs, and fire arrows. Despite some damage, the yacht survived, and the contestant received $50,000 for repairs.</description>
     </item>
   </channel>
