@@ -1,6 +1,6 @@
 baseURL: ""
 title: "Copiuminators"
-copyright: "© IBOTGUN"
+copyright: "IBOTGUN 2024 ©"
 paginate: 5
 theme: PaperMod
 
@@ -29,7 +29,6 @@ menu:
 
 params:
   defaultTheme: dark
-  ShowPostNavLinks: true
 
   homeInfoParams:
     Title: Hello Reader 

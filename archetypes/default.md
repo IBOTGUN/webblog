@@ -1,7 +1,7 @@
-+++
-title = '{{ replace .File.ContentBaseName "-" " " | title }}'
-date = {{ .Date }}
-draft = true
-author = "IBOTGUN"
-tags = [""]
-+++
+---
+title: {{ replace .File.ContentBaseName "-" " " | title }}
+date: {{ .Date }}
+slug: "post"
+author: "IBOTGUN"
+tags: ["Game"]
+---
