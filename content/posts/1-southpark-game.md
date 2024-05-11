@@ -8,4 +8,4 @@ tags: ["Game", "Review"]
 In my view, I believe that this game is excellent for any South Park fan. 
 It took me 13 hours to finish the story, yet I still need to complete all the achievements. 
 
-Despite being released in 2014, it still stands strong in terms of content.
+Despite being released in 2014, it still stands strong in my opinion.

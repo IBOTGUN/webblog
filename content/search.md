@@ -1,6 +1,6 @@
 ---
-title: "Search" # in any language you want
+title: "Copiuminators | Search" # in any language you want
 layout: "search" # necessary for search
-summary: "search"
+summary: "Searching Posts"
 placeholder: "Search..."
 ---

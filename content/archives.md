@@ -1,6 +1,6 @@
 ---
-title: "Archive"
+title: "Copiuminators | Archives"
 layout: "archives"
 url: "/archives/"
-summary: archives
+summary: Archives of posts
 ---
