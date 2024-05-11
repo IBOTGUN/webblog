@@ -2,7 +2,7 @@ baseURL: ""
 title: "Copiuminators"
 copyright: "© IBOTGUN"
 paginate: 5
-theme: papermod
+theme: PaperMod
 
 menu:
   main:
